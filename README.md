@@ -1,4 +1,4 @@
-# 🚀 Beyond Chats — AI Copilot Assignment
+# 🚀 Beyond Chats — Assignment
 
 **Live Demo:** [https://beyond-chats-assignment-rl3a.vercel.app/](https://beyond-chats-assignment-rl3a.vercel.app/)
 
@@ -6,7 +6,7 @@
 
 ## ✨ Overview
 
-Welcome to my submission for the Beyond Chats AI Copilot assignment!  
+Welcome to my submission for the Beyond Chats assignment!  
 This project is a pixel-perfect, highly responsive, and interactive clone of the demo UI, built with **React + TypeScript** and **Material UI**.  
 It demonstrates not just technical skill, but also a focus on user experience, accessibility, and modern design trends.
 
