@@ -1,4 +1,4 @@
-# 🚀 Beyond Chats — AI Copilot Assignment
+![Screenshot (180)](https://github.com/user-attachments/assets/07d961f0-5ec2-4fcd-8a36-a0a1cb6c7262)# 🚀 Beyond Chats — AI Copilot Assignment
 
 **Live Demo:** [https://beyond-chats-assignment-rl3a.vercel.app/](https://beyond-chats-assignment-rl3a.vercel.app/)
 
@@ -39,19 +39,17 @@ It demonstrates not just technical skill, but also a focus on user experience, a
 ---
 
 ## 📱 Screenshots
-
-| Splash Screen | Inbox + Chat | Copilot Panel | Details Panel |
 |:-------------:|:------------:|:-------------:|:-------------:|
-| *(Add screenshots here)* | *(Add screenshots here)* | *(Add screenshots here)* | *(Add screenshots here)* |
+| *(![Screenshot (180)](https://github.com/user-attachments/assets/aaa8bb72-30ca-491a-8348-01611be29fd6))*
 
 ---
 
 ## 🚦 How to Run Locally
 
-git clone https://github.com/yashsaraswat2004/BeyondChats-Assignment
-cd beyondchats-frontend
-npm install
-npm run dev
+- git clone https://github.com/yashsaraswat2004/BeyondChats-Assignment
+- cd beyondchats-frontend
+- npm install
+- npm run dev
 
 
 - Open [http://localhost:5173](http://localhost:5173) to view in your browser.
