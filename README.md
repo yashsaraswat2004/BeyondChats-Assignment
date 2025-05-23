@@ -39,8 +39,8 @@ It demonstrates not just technical skill, but also a focus on user experience, a
 ---
 
 ## 📱 Screenshots
-|:-------------:|:------------:|:-------------:|:-------------:|
-| *![Screenshot (180)](https://github.com/user-attachments/assets/aaa8bb72-30ca-491a-8348-01611be29fd6)*
+
+![Screenshot (180)](https://github.com/user-attachments/assets/aaa8bb72-30ca-491a-8348-01611be29fd6)
 
 ---
 
