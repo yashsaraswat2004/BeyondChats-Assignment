@@ -99,7 +99,7 @@ export default function DetailsPanel() {
             { icon: <LinkIcon fontSize="small" />, label: "Tracker ticket" },
             { icon: <AssignmentTurnedInIcon fontSize="small" />, label: "Back-office tickets" },
             { icon: <ForumIcon fontSize="small" />, label: "Side conversations" }
-          ].map((item, idx) => (
+          ].map((item) => (
             <ListItem key={item.label} disableGutters sx={{ py: 0.5 }}>
               <ListItemIcon sx={{ minWidth: 32, color: '#222' }}>
                 {item.icon}

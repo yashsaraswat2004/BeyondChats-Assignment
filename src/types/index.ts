@@ -16,3 +16,4 @@ export interface Conversation {
   badgeType?: "timer" | "count";
   badgeValue?: string;
 }
+

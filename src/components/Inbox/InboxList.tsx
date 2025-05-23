@@ -4,8 +4,8 @@ import InboxItem from './InboxItem';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import MenuOpenIcon from '@mui/icons-material/MenuOpen';
 import FolderOpenIcon from '@mui/icons-material/FolderOpen';
-
-const conversations = [
+import { Conversation } from '../../types';
+const conversations: Conversation[] = [
   {
     id: '1',
     name: 'Pankaj - Github',
@@ -51,6 +51,7 @@ const conversations = [
     time: '45m',
   },
 ];
+
 
 const InboxList: React.FC = () => {
   const [tab, setTab] = useState(0);
