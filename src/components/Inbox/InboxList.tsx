@@ -4,7 +4,7 @@ import InboxItem from './InboxItem';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import MenuOpenIcon from '@mui/icons-material/MenuOpen';
 import FolderOpenIcon from '@mui/icons-material/FolderOpen';
-import { Conversation } from '../../types';
+import type { Conversation } from '../../types';
 const conversations: Conversation[] = [
   {
     id: '1',
