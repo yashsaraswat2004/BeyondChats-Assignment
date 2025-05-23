@@ -1,4 +1,4 @@
-![Screenshot (180)](https://github.com/user-attachments/assets/07d961f0-5ec2-4fcd-8a36-a0a1cb6c7262)# 🚀 Beyond Chats — AI Copilot Assignment
+# 🚀 Beyond Chats — AI Copilot Assignment
 
 **Live Demo:** [https://beyond-chats-assignment-rl3a.vercel.app/](https://beyond-chats-assignment-rl3a.vercel.app/)
 
